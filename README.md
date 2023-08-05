@@ -65,3 +65,7 @@ Requests: 40548 susceed, 234 failed.
 
 TPS每秒事务数：600+
 
+
+### 运行步骤
+1. 运行make生成server文件
+2. 执行server文件
